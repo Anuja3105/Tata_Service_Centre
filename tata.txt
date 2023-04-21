@@ -1,0 +1,90 @@
+Group Members:
+1.Anuja Suryawanshi[LEADER]
+2.Kapil Lakamote
+3.Subodh Agale
+4.Vishal Musmade
+5.Rushikesh Patil
+6.Mohit Suryawanshi
+
+TITLE:TATA SERVICE CENTER 
+
+TEAM:
+	1.Manager
+	2.Supervisor
+	3.Inventory Manager
+	4.Accountant 
+	5.Mechanical Engineer
+		a.Mechanic
+		b.Tester
+		c.Quality Analyst
+	6.Automobile Engineer
+	7.Business Analyst
+	8.Supplier
+	9.Customers
+
+OBJECTIVE
+This application is about providing car services to customers online and offline.It makes more convieniet to 
+customer for booking their car for service routines for cars as they want on their scheduleed time and date.
+It is also more feasible for managing team to manage and keep track of there available sources and employees.
+
+SCOPE:
+This system allows owner,managing team,employees to keep track of their completed work as well as pending works without maintaing any
+physical records eg.keeping books of records, each and every record of particular department will be maintained virtually.
+As well as customers of Tata Service Center will be able to check the availability of booking slot without going to service 
+centers physically and keep track of their booked service routine, forth coming car service routine and what required changes had 
+been made to their vehicle during service feasibly through Web Application. 
+
+DEFINATIONS:
+	OSS: Online Shopping System
+	QA:  Quality Assurance
+	Portal: Peronalized Online Web Application
+	MIS: Management Information System
+	CRM: Customer Relation Managment
+	BI:  Business Intelligence  
+
+fundamental requirments:---
+                    Any one will be able to login in the the application but there will be three interface for car owners ,team  and the person who is buying the car 
+car owners have to put there car number and and regestred mobile number to login and for our customers we will provide insurence as we have  collaboration with the insurence
+company. In emergency like accident we will provide free towing service. For our exesting customer we will provide exciting offers and also give discount.Staff will be able
+to raise request for service updatation of service of cars. 
+customers will be able to raise their queries on the web application.
+Technician team will be able to approve the request raised by the customer and update the delivery date.
+customers and technician team will be informed well in advance about the availability of the slots.
+
+non functional requirment:
+Security 
+The existing customers should book their appointment directly by  provide login credential .
+ New customer need to create their account by providing information.Those want to claim insurance of their car
+they need to submit insurance document . The team will verify their documemt and approved it. The center will 
+internally cummunicate with customer and vice versa by using chatbox.Customer will be able to track the process.  
+ 
+
+
+Perspective:
+With customer prespective: 
+Basically, coustomers will come to your service center by booking the apointiment or
+by checking the availability of slots. After verification and filling the accurate car 
+details customer will be able to book the slot for the car service.
+
+With Management prespective:
+Manager will be able to check the day to day availablity of staff and according to
+this he will be accepting the slot booking for the car services, comfirm the appointment after confirmation 
+after confirmation time slot is allocated . management team appoint the specific mechnic.
+
+Mechanic :
+Te mechanic checks 
+
+
+
+
+
+
+
+
+
+
+Services provided to the customer:
+1.Will Be given option to either pick the car from given location or customer will
+be bringing his car by own. 
+Wit
+
