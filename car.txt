@@ -1,0 +1,18 @@
+availability
+center is open 8am-8pm 
+the system will available all time It can be acessed 24*7 
+Maintainability:
+There will be used nosql for huge data collection . IT team will easily maintained and moniter the software.
+Poratability:
+Anyone can acess the web application.The application run on any os , andriod ,cloud (azur,aws).At any location the Application will run
+The customer who only want service information those used without server (internet).
+Acessibility;
+The customer who create account can book appointment . The management team will accept or cancelled the appointment by their availability of worker.
+manager can view their progress on daily, monthly,weekelyor annual basis. Also centers all member can see their progress graph.
+Durability:
+If customer lost their connectivity between appointment booking will be able to continues same the data will be stored.
+Efficiency :
+we will develop such application that will handle a huge customer .System will manage all the appointment with transaction.
+we can improve response time so user get fast services.
+
+	
