@@ -1,0 +1,28 @@
+Manager
+Supervisor/Inventory Management
+Management Team
+Accountant
+Business Analyst
+Supplier
+Support Team
+Engineer
+Developer
+Customer
+Labour
+
+Registration:
+Login
+Progress Analyst Manager
+Requirement of Spare Part/Inventory Manager
+Accounting - Accountant
+Servicing Related Work- Labour 
+Analysis Of Data- Business Analyst
+Supply Of Spare Parts-Supplier
+Toeing and Delivery of Vehicle-Management Team
+Counsulting Support Team
+Problem Detection Of Vehicle-Engineer
+Application Maintenance - developer
+Booking-Customer
+Payment Gateway-customer
+ 
+ 
