@@ -58,7 +58,41 @@ The existing customers should book their appointment directly by  provide login 
 they need to submit insurance document . The team will verify their documemt and approved it. The center will 
 internally cummunicate with customer and vice versa by using chatbox.Customer will be able to track the process.  
  
+Scalability:
+		System will be able  to  provide  consistent user exeprience to stake holder as well as vistors irrespective of load.
+		When the users will increase that time the system will adjust according to load, and when customers are less then it will adjust accordingly.
 
+	Safety:
+
+		online car service portal will be secure from malicious attack, fishing.
+		online car service portal functionalilites are protected from outside with prper firewall configuration.
+		online car service portal will be always kept updated with latest anit virus software.
+		Bussiness data will be backed up periodically to ensure safty of data using increamental back up strategy.
+		
+
+
+Analysis:
+	Actors:
+		visitors
+		Manegar
+		customers
+		insurance sales team
+		mannegment staff
+		Mechanic
+		Delivery team
+
+	  identify essential characteristics of online shopping portal
+		we have identified use cases
+
+		1.Services catalog  use case
+		2.Appointment booking  use case
+		3.Appointment process use case
+		4.Exiting customer use case
+		5.Payments use case
+		6.Delivery use case 
+		7.Customer Relation Managment (CRM) use case
+		8.Business Intelligence use case 
+ 
 
 Perspective:
 With customer prespective: 
