@@ -51,6 +51,24 @@ customers will be able to raise their queries on the web application.
 Technician team will be able to approve the request raised by the customer and update the delivery date.
 customers and technician team will be informed well in advance about the availability of the slots.
 
+Perspective:
+With customer prespective: 
+Basically, coustomers will come to your service center by booking the apointiment or
+by checking the availability of slots. After verification and filling the accurate car 
+details customer will be able to book the slot for the car service.
+
+With Management prespective:
+Manager will be able to check the day to day availablity of staff and according to
+this he will be accepting the slot booking for the car services, comfirm the appointment after confirmation 
+after confirmation time slot is allocated . management team appoint the specific mechnic.
+
+Mechanic :
+The mechanic checks their work slot and Work accordingly. Mechanic check their daily ,monthly, weeekly and annual report. check their daily completed work.
+
+Services provided to the customer:
+1.Will Be given option to either pick the car from given location or customer will
+be bringing his car by own. 
+
 non functional requirment:
 Security 
 The existing customers should book their appointment directly by  provide login credential .
@@ -94,31 +112,6 @@ Analysis:
 		8.Business Intelligence use case 
  
 
-Perspective:
-With customer prespective: 
-Basically, coustomers will come to your service center by booking the apointiment or
-by checking the availability of slots. After verification and filling the accurate car 
-details customer will be able to book the slot for the car service.
 
-With Management prespective:
-Manager will be able to check the day to day availablity of staff and according to
-this he will be accepting the slot booking for the car services, comfirm the appointment after confirmation 
-after confirmation time slot is allocated . management team appoint the specific mechnic.
-
-Mechanic :
-Te mechanic checks 
-
-
-
-
-
-
-
-
-
-
-Services provided to the customer:
-1.Will Be given option to either pick the car from given location or customer will
-be bringing his car by own. 
 Wit
 
